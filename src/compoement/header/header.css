@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+And+White+Picture&family=Black+Han+Sans&family=Do+Hyeon&family=Dongle&family=Gothic+A1&family=Gowun+Dodum&family=IBM+Plex+Sans+KR&family=Jua&family=Nanum+Gothic&family=Noto+Sans+KR&family=Stylish&family=Sunflower:wght@500&display=swap');
+
+.header {
+    font-family: 'Jua', sans-serif;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
